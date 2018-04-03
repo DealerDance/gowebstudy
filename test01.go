@@ -4,8 +4,8 @@ import(
   "fmt"
 )
 
-func PrintNew(name string){
-  fmt.Println(name)
+func PrintNew(namekk string){
+  fmt.Println(namekk)
 }
 
 func main(){
