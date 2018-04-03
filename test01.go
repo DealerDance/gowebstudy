@@ -6,6 +6,7 @@ import(
 
 func PrintNew(namekk string){
   fmt.Println(namekk)
+  fmt.Println("kkkkkkk")
 }
 
 func main(){
